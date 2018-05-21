@@ -16,3 +16,9 @@
 
 - response.css(".className::text").extract()
   - To extract only text content of all elements based on css selector (extract_first() for first element match)
+
+- scrapy startproject projectName
+  - Create a new scrapy project
+
+- scrapy genspider botName botURL (example scrapy genspider redditbot www.reddit.com/r/gameofthrones/)
+  - This will create a new spider “redditbot.py” in spiders/ folder with a basic template
