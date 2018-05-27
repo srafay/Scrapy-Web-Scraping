@@ -1,73 +1,73 @@
 platforms,votes,name,license,description
-Mac,67,"
-Mame
-",Free,"MAME stands for Multiple Arcade Machine Emulator. When used in conjunction with images of the original arcade game's ROM and disk data, MAME attempts to reproduce that game as faithfully as possible on a more modern general-purpose computer. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era. "
-Windows,5,"
-Icy Tower
-",Freemium,"Icy Tower is a fun and short, yet addictive game where your only goal is to gain as much score as possible. The game brings you custom characters, unlockable floors types, replays to share with your friends, lots of combo rewards and more! "
-Windows,5,"
-Zaz
-",Free,"Zaz is a game where the player has to get rid of incoming balls by arranging them in triplets. The idea of the game is loosely based on games like Luxor, Zuma and Puzzle Bobble. The twists that make Zaz stand out from other games of this type are that the balls have to be picked from the path (insted of being randomly assigned for the player) and that the player's ""vehicle"" is also attached to a path which is different from level to level. But one thing makes this game stand out"
-Android,5,"
-Crossy Road
-",Freemium,Crossy Road is the endless arcade hopper you’ll never want to put down.
-Android,5,"
-PinOut!
-",Freemium,"PinOut! is an innovative reimagining of pinball with vibrant, arcade-style visuals full of pulsating lights and futuristic sounds driven by thumping, retro beats. The game provides a truly breathtaking arcade experience free from hindrances like in-game ads."
-Windows,7,"
-Pong Quest
-",Free Personal,"A classic pong quest where you journey through a series of unique levels, each with its own little twist. The levels are organized into areas, and each area has a special pong-based theme."
-Windows,7,"
-FB Alpha
-",Free,"FB Alpha or FBA as it is commonly known is an emulator of arcade games, that is, it takes the program code, graphics data, etc., from an original arcade game and emulates the hardware to make the game run in it's original form. As far as the game is concerned it is running in it's original cabinet."
-Android,7,"
-PAC-MAN 256
-",Freemium,PAC-MAN 256 is the maze that never ends. But the Glitch is coming for you…
-Windows,5,"
-Dionakra
-",Free,"Dionakra is a enhanced clone of Breakout. Players take control of a pad at the bottom of the playfield, which is used to direct a bouncing ball towards a number of bricks at the top of the playfield. Once the player has destroyed all the bricks, he gets to advance to the next level. In Dionakra, the bricks represent space crystals that Tony, an galactic dustbin man, has to clean up."
-Android,5,"
-BBTAN
-",Freemium,BBTAN!!!
-Windows,5,"
-Future Soccer
-",Free,"Future Soccer is a fast-paced sports game based on the classic game of Soccer, but with a futuristic twist! Set in a distant future with incredible technological advancements, Future Soccer pits you against skilled opponents in a wide variety of arenas."
-Android,5,"
-AbyssRium
-",Free,Enjoy a beautiful seascape in this underwater clicker game. You begin with one lonely Corallite and click to generate Vitality to upgrade and create new coral and fish.
-Mac,11,"
-MESS
-",Free Personal,"MESS emulates portable and console gaming systems, computer platforms and calculators. The project strives for accuracy and portability and therefore is not always the fastest emulator for any one particular system."
-Android,12,"
-Easter Bunny Adventures
-",Free,"Run and Jump to gather Easter eggs! Fast Easter bunny and his friends need to gather as much eggs as possible to save the Easter. Inside those eggs there're lots of precious gems! Evil creatures are going to stop you, but as long as you can roll and skip, they'll not get you. And of course your friends Gitty The Kitty, Ronny The Rhino and Pengu the Penguin will always come to your aid! "
-Web,8,"
-Sensation Games
-",Free,"The very best free online sensation games, provides your latest and the best games for game lovers. Find free Shockwave games, arcade games, action games, racing games, shooting games, and Unity games."
-Mac,8,"
-BombSquad
-",Freemium,"Introducing BombSquad, an explosive arcade-style party game best enjoyed with several friends and a large couch."
-Windows,7,"
-HyperSpin
-",Free,"HyperSpin is an animated arcade frontend for Windows for use on Home Arcade Machines. HyperSpin allows you to create custom menu systems to run most executables with that arcade look and feel. HyperSpin takes a more artwork oriented approach to creating menu's. With this tool you should be able to make interesting menu's for your games, movies etc.."
-Mac,7,"
-Jump Doper
-",Free,"Jump Doper is a seriously fun, little game of rope jumping where you simply tap to jump and do your best to avoid touching the rope so you're not chopped to death!"
-Web,6,"
-Ninja Kiwi
-",Freemium,"Ninja Kiwi, creators of awesome free online games. We have all your favorite Bloons games, Tower Defense games, SAS Zombie Assault and so much more."
-Mac,67,"
-SuperTuxKart
-",Free,"SuperTuxKart is a free 3D kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer (a network multiplayer feature is planned)."
-Web,25,"
-Armor Games
-",Free,"Armor Games, formerly Games Of Gondor, is a website based in Irvine, California that hosts free Flash-based browser games."
-Windows,39,"
-Need for Speed
-",Commercial,"Need for Speed (also known by its abbreviation NFS) is a racing video game series published by Electronic Arts, originally released in the video game system ""3DO"" and later on the PlayStation and Sega Saturn. Currently and for all releases of the series have been and are available in other systems such as PC, PlayStation 2, Xbox, Gamecube, Xbox 360, Wii, PlayStation 3, PSP, Game Boy Advance, Nintendo DS, iPhone, and various mobile devices 3.5 G. It is an arcade racing game /"
-Mac,19,"
+"[u'Mac', u'Windows', u'Linux', u'Web', u'Android', u'iPhone', u'Java Mobile', u'S60', u'Windows Phone']",19,"
 Frozen Bubble
 ",Free,"Frozen Bubble is a free software Puzzle Bobble style computer game which is available on several operating systems including Linux, Windows, Mac OS X, the Symbian Series 60, Windows Phone 7 and Android line of smartphones. There is also a single player Java applet version.The game features 100 levels and includes a level editor. Like many popular free software/open source games, it features penguins a la Tux, who in this game shoot the coloured frozen bubbles to form groups of the same colour."
-Android,16,"
+"[u'Windows', u'Linux', u'Web', u'Android', u'iPhone', u'Android Tablet', u'iPad', u'Wine', u'Facebook']",5,"
+Icy Tower
+",Freemium,"Icy Tower is a fun and short, yet addictive game where your only goal is to gain as much score as possible. The game brings you custom characters, unlockable floors types, replays to share with your friends, lots of combo rewards and more! "
+"[u'Mac', u'Windows', u'Linux', u'AmigaOS', u'MorphOS']",67,"
+Mame
+",Free,"MAME stands for Multiple Arcade Machine Emulator. When used in conjunction with images of the original arcade game's ROM and disk data, MAME attempts to reproduce that game as faithfully as possible on a more modern general-purpose computer. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era. "
+"[u'Windows', u'Android', u'Android Tablet']",5,"
+Future Soccer
+",Free,"Future Soccer is a fast-paced sports game based on the classic game of Soccer, but with a futuristic twist! Set in a distant future with incredible technological advancements, Future Soccer pits you against skilled opponents in a wide variety of arenas."
+"[u'Windows', u'Android', u'iPhone', u'Android Tablet', u'Windows Phone', u'Kindle Fire', u'Playstation']",39,"
+Need for Speed
+",Commercial,"Need for Speed (also known by its abbreviation NFS) is a racing video game series published by Electronic Arts, originally released in the video game system ""3DO"" and later on the PlayStation and Sega Saturn. Currently and for all releases of the series have been and are available in other systems such as PC, PlayStation 2, Xbox, Gamecube, Xbox 360, Wii, PlayStation 3, PSP, Game Boy Advance, Nintendo DS, iPhone, and various mobile devices 3.5 G. It is an arcade racing game /"
+[u'Web'],25,"
+Armor Games
+",Free,"Armor Games, formerly Games Of Gondor, is a website based in Irvine, California that hosts free Flash-based browser games."
+"[u'Android', u'iPhone', u'Android Tablet', u'iPad', u'Cardboard']",5,"
+AbyssRium
+",Free,Enjoy a beautiful seascape in this underwater clicker game. You begin with one lonely Corallite and click to generate Vitality to upgrade and create new coral and fish.
+"[u'Android', u'iPhone', u'Android Tablet', u'Windows Phone', u'iPad', u'Apple TV', u'Kindle Fire', u'Fire TV']",5,"
+Crossy Road
+",Freemium,Crossy Road is the endless arcade hopper you’ll never want to put down.
+"[u'Windows', u' Discontinued']",5,"
+Dionakra
+",Free,"Dionakra is a enhanced clone of Breakout. Players take control of a pad at the bottom of the playfield, which is used to direct a bouncing ball towards a number of bricks at the top of the playfield. Once the player has destroyed all the bricks, he gets to advance to the next level. In Dionakra, the bricks represent space crystals that Tony, an galactic dustbin man, has to clean up."
+[u'Windows'],7,"
+FB Alpha
+",Free,"FB Alpha or FBA as it is commonly known is an emulator of arcade games, that is, it takes the program code, graphics data, etc., from an original arcade game and emulates the hardware to make the game run in it's original form. As far as the game is concerned it is running in it's original cabinet."
+"[u'Windows', u'Windows Mobile', u'Android', u'iPhone', u'Windows Phone']",7,"
+Pong Quest
+",Free Personal,"A classic pong quest where you journey through a series of unique levels, each with its own little twist. The levels are organized into areas, and each area has a special pong-based theme."
+[u'Windows'],7,"
+HyperSpin
+",Free,"HyperSpin is an animated arcade frontend for Windows for use on Home Arcade Machines. HyperSpin allows you to create custom menu systems to run most executables with that arcade look and feel. HyperSpin takes a more artwork oriented approach to creating menu's. With this tool you should be able to make interesting menu's for your games, movies etc.."
+[u'Web'],6,"
+Ninja Kiwi
+",Freemium,"Ninja Kiwi, creators of awesome free online games. We have all your favorite Bloons games, Tower Defense games, SAS Zombie Assault and so much more."
+"[u'Android', u'iPhone', u'Android Tablet', u'iPad', u'Kindle Fire']",7,"
+PAC-MAN 256
+",Freemium,PAC-MAN 256 is the maze that never ends. But the Glitch is coming for you…
+"[u'Mac', u'Windows', u'Linux', u'Web', u'Android', u'iPhone', u'Android Tablet', u'iPad']",7,"
+Jump Doper
+",Free,"Jump Doper is a seriously fun, little game of rope jumping where you simply tap to jump and do your best to avoid touching the rope so you're not chopped to death!"
+"[u'Web', u' Discontinued']",8,"
+Sensation Games
+",Free,"The very best free online sensation games, provides your latest and the best games for game lovers. Find free Shockwave games, arcade games, action games, racing games, shooting games, and Unity games."
+"[u'Mac', u'Android', u'Amazon Appstore']",8,"
+BombSquad
+",Freemium,"Introducing BombSquad, an explosive arcade-style party game best enjoyed with several friends and a large couch."
+"[u'Android', u'iPhone', u'Android Tablet', u'iPad']",5,"
+PinOut!
+",Freemium,"PinOut! is an innovative reimagining of pinball with vibrant, arcade-style visuals full of pulsating lights and futuristic sounds driven by thumping, retro beats. The game provides a truly breathtaking arcade experience free from hindrances like in-game ads."
+"[u'Mac', u'Windows', u'Linux', u'BSD', u'PortableApps.com', u'OpenSolaris']",67,"
+SuperTuxKart
+",Free,"SuperTuxKart is a free 3D kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer (a network multiplayer feature is planned)."
+"[u'Android', u'iPhone', u'Android Tablet', u'iPad']",5,"
+BBTAN
+",Freemium,BBTAN!!!
+"[u'Windows', u'Linux', u'PortableApps.com']",5,"
+Zaz
+",Free,"Zaz is a game where the player has to get rid of incoming balls by arranging them in triplets. The idea of the game is loosely based on games like Luxor, Zuma and Puzzle Bobble. The twists that make Zaz stand out from other games of this type are that the balls have to be picked from the path (insted of being randomly assigned for the player) and that the player's ""vehicle"" is also attached to a path which is different from level to level. But one thing makes this game stand out"
+"[u'Mac', u'Windows', u'Linux']",11,"
+MESS
+",Free Personal,"MESS emulates portable and console gaming systems, computer platforms and calculators. The project strives for accuracy and portability and therefore is not always the fastest emulator for any one particular system."
+"[u'Android', u'iPhone', u'Android Tablet', u'Windows Phone', u'iPad']",16,"
 Hill Climb Racing
 ",Free,"Sequel to the most addictive and entertaining physics based driving game ever! And it's free! Newton Bill is Back! After journeying to where no ride has been before, Bill is ready to challenge the whole world in Hill Climb Racing multi player madness."
+"[u'Android', u'Android Tablet', u'Windows Phone']",12,"
+Easter Bunny Adventures
+",Free,"Run and Jump to gather Easter eggs! Fast Easter bunny and his friends need to gather as much eggs as possible to save the Easter. Inside those eggs there're lots of precious gems! Evil creatures are going to stop you, but as long as you can roll and skip, they'll not get you. And of course your friends Gitty The Kitty, Ronny The Rhino and Pengu the Penguin will always come to your aid! "

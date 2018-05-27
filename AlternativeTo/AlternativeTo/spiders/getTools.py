@@ -19,17 +19,16 @@ class GettoolsSpider(scrapy.Spider):
 	votes = response.css('.like-box-wrapper > div:nth-child(2) > span:nth-child(1)::text').extract()
 	lic = response.css('.labels > li:nth-child(1) > span:nth-child(1) > span:nth-child(1)::text').extract()
 	platforms = response.css("li.label::text").extract()
-	print("Platforms: " + str(platforms))
 
         #Give the extracted content row wise
-        for item in zip(name, description, votes, lic, platforms):
+        for item in zip(name, description, votes, lic):
             #create a dictionary to store the scraped info
             scraped_info = {
                 'name' : item[0],
                 'description' : item[1],
                 'votes' : item[2],
                 'license' : item[3],
-                'platforms' : item[4],
+                'platforms' : str(platforms),
             }
             #yield or give the scraped info to scrapy
             yield scraped_info
