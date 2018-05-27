@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for ourfirstscraper project
+# Scrapy settings for AlternativeTo project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,17 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'ourfirstscraper'
+BOT_NAME = 'AlternativeTo'
 
-SPIDER_MODULES = ['ourfirstscraper.spiders']
-NEWSPIDER_MODULE = 'ourfirstscraper.spiders'
+SPIDER_MODULES = ['AlternativeTo.spiders']
+NEWSPIDER_MODULE = 'AlternativeTo.spiders'
+
+FEED_FORMAT = "csv"
+FEED_URI = "test.csv"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'ourfirstscraper (+http://www.yourdomain.com)'
+#USER_AGENT = 'AlternativeTo (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +50,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'ourfirstscraper.middlewares.OurfirstscraperSpiderMiddleware': 543,
+#    'AlternativeTo.middlewares.AlternativetoSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'ourfirstscraper.middlewares.OurfirstscraperDownloaderMiddleware': 543,
+#    'AlternativeTo.middlewares.AlternativetoDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +68,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'ourfirstscraper.pipelines.OurfirstscraperPipeline': 300,
+#    'AlternativeTo.pipelines.AlternativetoPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
