@@ -1,0 +1,161 @@
+category,votes,description,license,platforms,name
+Clean your PC,97,"Advanced SystemCare, all-in-one PC optimization utility, specializes in ONE-Click solutions to detect, clean, repair, speed up and eventually protect PC. This ""must-have"" tool is 100% safe with no adware, spyware or viruses. To better protect users' online privacy with Advanced SystemCare Free 8, ""Protect"" tab is newly added, which is design to provide quick access to protect browsing from being tracked by automatically cleaning privacy traces once browser closed and",Freemium,"[u'Windows', u' Bundleware']","
+Advanced SystemCare
+"
+Clean your PC,141,Peak performance for your PC. Keeps it going for longer.,Commercial,[u'Windows'],"
+AVG PC TuneUp
+"
+Clean your PC,98,"Clean Master is an all-in-one cleaner app on Android for cleaning app cache, unused files, residual files, search history and uninstalling apps. With this apps user can also Kill running Tasks and releases more RAM to boost your phone performance and save battery life without granting superuser permission. ",Freemium,"[u'Windows', u'Android', u'Android Tablet']","
+Clean Master
+"
+Clean your PC,102,CleanMyMac scans every inch of your system and safely removes gigabytes of junk in just two clicks. Free up storage on your Mac and boost its performance — CleanMyMac finds 74 GB of junk on an average computer. ,Commercial,[u'Mac'],"
+CleanMyMac
+"
+Clean your PC,94,"Award-winning optimizer that will clean, fix and speed up your PC in a few simple clicks. Experts recommend BoostSpeed as effective, fast and a program the entire family can use.",Commercial,[u'Windows'],"
+Auslogics BoostSpeed
+"
+Clean your PC,313,"Glary Utilities offers numerous powerful and easy-to-use system tools and utilities to fix, speed up, maintain and protect your PC.",Freemium,"[u'Windows', u'Android', u' Bundleware']","
+Glary Utilities
+"
+Clean your PC,25,The Download App is a free application from ,Free,"[u'Windows', u' Discontinued']","
+Download App
+"
+Clean your PC,108,"Soluto provides support and protection for your smartphones and tablets anywhere and at any time. You’ll get the help you need - from connectivity issues to email set-up and more, the tools to improve device performance and the protection to keep the content on your devices safe.",Freemium,"[u'Android', u'iPhone', u'Android Tablet', u'iPad', u' Discontinued']","
+Soluto
+"
+Operating Systems,134,"Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. Within the Linux community, Arch itself is renowned for being an exceptionally fast, powerful, and lightweight distribution that provides access to the very latest cutting edge – and bleeding edge – software. However, Arch is also aimed at more experienced or technically-minded users. As such, it is generally considered to be beyond the reach of those who lack the technical expertise (or",Free,[u'Linux'],"
+Manjaro Linux
+"
+Program Launcher,28,"SIMPLE, LIGHT, FAST",Freemium,"[u'Android', u'Android Tablet']","
+Smart Launcher
+"
+Clean your PC,217,"TreeSize tells you where precious disk space has gone to. It can be started from the context menu of a local folder or a local drive and displays the size of each folder, including its subfolders. ",Freemium,"[u'Windows', u'PortableApps.com']","
+TreeSize
+"
+Hardware Monitoring,29,"Icinga is a fork of Nagios and is backward compatible. So, Nagios configurations, plugins and addons can all be used with Icinga. Though Icinga retains all the existing features of its predecessor, it builds on them to add many long awaited patches and features requested by the user community. Icinga is an enterprise grade open source monitoring system which keeps watch over a network and any conceivable network resource, notifies the user of errors and recoveries, and generates performance",Free,"[u'Mac', u'Linux']","
+Icinga
+"
+Recover deleted files,7,"ApowerRecover can easily get your files back. Whether it is due to accidental deleting, formatting, virus infection and improper actions, you can use ApowerRecover to recover files. It can safely recover deleted files on the Windows PC or Mac, whether they are in the computer hard drive, external hard disk, memory cards, digital cameras, camcorders, or flash drives. And it can retrieve various types of data in almost all kinds of formats, such as photos, audios, videos, documents, archives",Commercial,"[u'Mac', u'Windows']","
+ApowerRecover
+"
+Recover deleted files,7,"Kickass Undelete is a free, fully featured, file recovery tool for Windows. Accidentally deleted a file? Never fear; the data is probably still on your drive and may be recoverable. Kickass Undelete finds all of the deleted files on your hard drive, flash drive or SD card and allows you to recover them.",Free,[u'Windows'],"
+Kickass Undelete
+"
+Bundled with Windows,1,"Windows Backup and Restore (formerly Windows Backup and Restore Center) is a component of Microsoft Windows introduced in Windows Vista and included in later versions that allow users to create backups and restore from backups created earlier. It is a replacement of NTBackup, which was included in previous Windows versions. It became a deprecated feature in Windows 8 before being completely removed in Windows 8.1 in favor of File History. However, in Windows 10, it was re-incorporated into the",Free,[u'Windows'],"
+Windows Backup and Restore
+"
+Recover deleted files,6,"From the site: ""I have been a field service technician for many years, which means that I am out on my own fixing computers on-site and don’t always have the support of a shop or colleagues to help. Field service work requires one to be able to quickly and routinely get the problem diagnosed and solved right the first time, otherwise it means another trip back out to a client’s location.",Free,"[u'Mac', u'Windows', u'Linux']","
+All in One – System Rescue Toolkit
+"
+Recover deleted files,8,UFS Explorer Standard Recovery for RAID (RCI) was designed as an extension to UFS Explorer Standard Recovery software to expand capabilities for reconstruction of complex RAID-systems and recovery of lost and deleted data from these systems. In addition to the set of functions contained in UFS Explorer Standard Recovery this software includes embedded RAID-Builder tool that organizes smooth operations on RAID-storages of any level. UFS Explorer Standard Recovery for RAID (RCI) allows you to,Commercial,"[u'Windows', u'Linux', u'Mac OS X']","
+UFS Explorer RAID Recovery
+"
+Recover deleted files,8,"Foremost is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format allowing for a",Free,[u'Linux'],"
+Foremost
+"
+Recover deleted files,11,"Sometimes disaster strikes. Data can be lost due to many different reasons. Accidental reformatting, power spikes, virus attacks and hardware malfunction are some of the scenarios where you will find yourself looking for a data recovery solution.",Freemium,[u'Windows'],"
+Zero Assumption Recovery
+"
+Recover deleted files,8,"Raise Data Recovery is designed to help you efficiently restore your lost, formatted or accidentally deleted files from various data storage media: a hard drive of your PC or laptop, external hard drive, thumb drive, memory card of your smartphone, tablet or digital camera, RAID system and many others. While employing extremely powerful mechanisms, similar to those used in professional series, the software is simple enough for anyone to use without spending ages to come to grips with it.",Freemium,[u'Windows'],"
+Raise Data Recovery
+"
+Recover deleted files,11,"A completely free bootable CD that contains a load of useful tools you can make use of in a variety of situations like analyzing, recovering and fixing your computer even if the primary operating system can not be booted.",Free,[u'Windows'],"
+Gandalf’s Windows 10PE
+"
+Recover deleted files,11,UFS Explorer Professional Recovery is a full-featured software application designed exclusively for data recovery specialists. The application successfully combines low-level data analysis and data management functions with high-level data recovery tools. UFS Explorer Professional Recovery is the only software of the UFS Explorer group that allows to alter original information on the storage.,Commercial,"[u'Windows', u'Linux', u'Mac OS X']","
+UFS Explorer Professional Recovery
+"
+Recover deleted files,11,"Veeam Agent for Microsoft Windows and Veeam Agent for Linux work with Veeam Availability Suite to deliver Availability for ALL workloads — virtual, physical and cloud — from a single management console, extending Veeam’s leadership position from being the best for VMware vSphere and Microsoft Hyper-V to #1 Availability for any app, any data on any cloud.",Freemium,"[u'Windows', u'Linux']","
+Veeam Agents
+"
+Recover deleted files,8,"UFS Explorer Standard Recovery was designed to make even complex data recovery a simple procedure to be easily carried-out by both home users and professionals. The software embraces powerful mechanisms that allow to recover accidentally deleted data and data lost due to logical file system damages after formatting hard disk, hardware malfunctions or software failures, virus attacks, power outages etc. UFS Explorer Standard Recovery all in one supports a wide range of operating and file systems",Commercial,"[u'Windows', u'Linux', u'BSD', u'Mac OS X']","
+UFS Explorer Standard Recovery
+"
+Recover deleted files,12,"DiskDigger is a program that undeletes and recovers lost files from your hard drive, memory cards, USB flash drives — you name it! Whether you accidentally deleted some documents or photos from your computer, reformatted your camera's memory card, or want to see what files are lurking on an old USB drive, DiskDigger is here for you. ",Freemium,[u'Windows'],"
+DiskDigger
+"
+Recover deleted files,12,"PartitionGuru is a partition management and data recovery program. In addition to traditional MBR partition table, it supports GUID partition table on GPT disks also. The free version is not able to convert a dynamic disk to a basic disk.",Free Personal,[u'Windows'],"
+PartitionGuru
+"
+Recover deleted files,21,Stellar Phoenix Windows Data Recovery (also called Stellar Phoenix File Recovery and ,Commercial,[u'Windows'],"
+Stellar Phoenix Windows Data Recovery
+"
+Recover deleted files,23,"Primo iPhone Data Recovery is an ultimate iOS data recovery tool designed for retrieving the accidentally deleted, damaged or lost data on your iPhone, iPad and iPod. ",Commercial,"[u'Mac', u'Windows']","
+Primo iPhone Data Recovery
+"
+Recover deleted files,13,"Toolwiz Care is a free tool set designed to speed up your PC and give your system full care. With multi-functional optimization suite, this software provides a collection of tools that includes System Checkup, System Cleanup, System Speedup, System Virtualization and 40+ powerful tools to enhance PC performance, security, and to optimize the start-up procedure. Toolwiz guarantees users that the freeware will stay free. This tool suite is designed for all levels of PC users from beginners to",Free,"[u'Windows', u' Discontinued']","
+Toolwiz Care
+"
+Recover deleted files,15,"Advanced data recovery software to do format recovery, unformat and recover deleted files emptied from Recycle Bin or lost data due to partition loss or damage, software crash, virus infection, unexpected shutdown or any other unknown reasons under Windows operating system. It will do an amazing job when the data loss disaster strikes, especially when you want to recover data from formatted drive. Data Recovery Wizard supports hardware RAID and hard drive, USB drive, SD card, memory card, etc.",Commercial,[u'Windows'],"
+EaseUS Data Recovery Wizard
+"
+Recover deleted files,121,"PhotoRec, companion program to ",Free,"[u'Mac', u'Windows', u'Linux', u'BSD']","
+PhotoRec
+"
+Recover deleted files,17,"Yamicsoft Windows managers are powerful software tools to tweak, optimize, maintain and tune up Windows XP,Vista, 7 and 8. They include over thirty different utilities to help your system to be stable, fast, secure and personal! For example, get detailed system and hardware information; Tweak your system to improve windows startup and shutdown speed; tweak your hardware to increase system performance; Find and clean junk files; searches your computer for duplicated files; easily checks registry",Commercial,[u'Windows'],"
+Yamicsoft Windows Manager
+"
+Recover deleted files,214,"Hiren's BootCD (HBCD) is a completely free bootable CD that contains a load of useful tools you can make use of in a variety of situations like analyzing, recovering and fixing your computer even if the primary operating system can not be booted.",Free Personal,"[u'Windows', u'Linux', u' Discontinued']","
+Hiren's BootCD
+"
+Hardware Monitoring,31,"Hardinfo is a system information and benchmark tool for Linux. It shows detailed system info, including hardware, environment, and kernel. It can use lm_sensors and ACPI for temperature and battery information. It also has four CPU banchmarks and two FPU benchmarks. It can generate reports as well.",Free,"[u'Linux', u'Xfce', u' Discontinued']","
+Hardinfo
+"
+Recover deleted files,552,"Recuva (pronounced ""recover"") is a freeware Windows utility to restore files that have been accidentally deleted from your computer. This includes files emptied from the Recycle bin as well as images and other files that have been deleted by user error from digital camera memory cards or MP3 players. It will even bring back files that have been deleted from your iPod, or by bugs, crashes and viruses!",Freemium,"[u'Windows', u'PortableApps.com']","
+Recuva
+"
+Hardware Monitoring,29,SidebarDiagnostics - A simple sidebar for Windows desktop that displays hardware diagnostic information.,Free,[u'Windows'],"
+Sidebar Diagnostics
+"
+Recover deleted files,184,"Disk Drill is a data recovery software that easily protects your files from accidental deletion with Recovery Vault and recovers lost data from disks. Disk Drill supports most of storage drives, file types and file systems. Disk Drill for Mac OS X recovers deleted files from iPhone and Android devices! This data recovery software can also find duplicate files, clean your disk and visualize disk space usage; offers bootable data recovery drive, byte-to-byte backups, disk health monitoring, and",Freemium,"[u'Mac', u'Windows']","
+Disk Drill
+"
+Hardware Monitoring,58,"On November 21, 2010 FinalWire acquired and discontinued EVEREST. You can download the latest Discontinued Stable packages of the products, both EVEREST Ultimate Edition that Corporate Edition on ",Commercial,"[u'Windows', u' Discontinued']","
+EVEREST
+"
+Hardware Monitoring,62,SIW is an advanced System Information for Windows tool that gathers detailed information about your system properties and settings and displays it in an extremely comprehensible manner. ,Commercial,"[u'Windows', u'PortableApps.com']","
+SIW
+"
+Hardware Monitoring,74,Nagios is a powerful monitoring system that enables organizations to identify and resolve IT infrastructure problems before they affect critical business processes.,Free,[u'Linux'],"
+Nagios
+"
+Hardware Monitoring,50,"Core Temp is a compact, no fuss, small footprint program to monitor CPU temperature.",Free,"[u'Windows', u' Warning']","
+Core Temp
+"
+Hardware Monitoring,80,"A powerful overclocking tool for your graphics card, which also includes screen capture and video capture tools, plus overlays. Has a lower FPS hit than Fraps, and offers the same functionality. The beta versions include audio streams alongside the video capture.",Free,"[u'Windows', u'Android', u'iPhone']","
+MSI Afterburner
+"
+Hardware Monitoring,75,"Join millions of IT professionals and download Spiceworks, a free network monitoring software with network management tools, help desk ticketing app, network mapper and more.",Free,"[u'Windows', u'Web', u'Android', u'Android Tablet']","
+Spiceworks Help Desk
+"
+Hardware Monitoring,82,"System Explorer is an enhanced Taskmanager that provides detailed information about running processes, startup programs, IE add-ons (BHOs), drivers, services network connections, system resources and more. It also keeps track of a history of processes that were started, and allows you to create file and registry snapshots that can be compared to analyze system changes in detail. System Explorer integrates online lookups into the right click menu for any process, driver or service, allowing you",Free,"[u'Windows', u'PortableApps.com']","
+SystemExplorer
+"
+Hardware Monitoring,94,"iStat is a series of system monitor apps. It's available in different versions: iStat Menus, iStat for iOS and iStat Server as a companion application to the iStat for iOS app that lets you remotely monitor your computers (free for Windows and Mac).",Commercial,"[u'Mac', u'iPhone']","
+iStat Menus
+"
+Hardware Monitoring,84,"HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed. ",Freemium,[u'Windows'],"
+HWMonitor
+"
+Hardware Monitoring,44,"From the makers of CPU-Z, the PC WIZARD is among the most advanced system information programs on the market. PC WIZARD 2008 is a powerful utility designed especially for detection of hardware, but also some more analysis. It's able to identify a large scale of system components and supports the latest technologies and standards. This tool is periodically updated (usually once per month) in order to provide most accurate results.",Free,"[u'Windows', u' Discontinued']","
+PC Wizard
+"
+Hardware Monitoring,111,HD Tune is a Hard Disk utility which has the following functions:,Commercial,[u'Windows'],"
+HD Tune
+"
+Hardware Monitoring,146,CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T.,Free,"[u'Windows', u'PortableApps.com']","
+CrystalDiskInfo
+"
+Hardware Monitoring,152,"HWiNFO are professional hardware information and diagnostic tools supporting latest components, industry technologies and standards. Both tools are designed to collect and present the maximum amount of information possible about computers hardware which makes them suitable for users searching for driver updates, computer manufacturers, system integrators and technical experts as well. Retrieved information is presented in a logical and easily understandable form and can be exported into various",Free,"[u'Windows', u'PortableApps.com']","
+HWiNFO (32/64)
+"
+Hardware Monitoring,37,"IT Asset Management Software. Powerful, comprehensive and feature rich control of IT infrastructure via a modern and intuitive web-based interface. Key features include agent and agent-less automated inventory, network discovery, remote desktop control, software deployment and metering, license management and financial tracking. Count on reliable, precise and updated information about your software and hardware assets to maximize ROI and decrease TCO. Enjoy rapid, autonomous, hassle free",Commercial,"[u'Mac', u'Windows', u'Linux', u'Web']","
+InvGate Assets
+"
+Hardware Monitoring,172,"The Open Hardware Monitor is a free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.",Free,"[u'Windows', u'Linux', u'Mono']","
+Open Hardware Monitor
+"
+Hardware Monitoring,137,"An uncompromising mature enterprise-level platform designed for real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices, effortlessly scaling to even larger environments. ",Free,"[u'Linux', u'Self-Hosted', u'FreeBSD', u'OpenBSD']","
+Zabbix
+"
+Hardware Monitoring,509,"CPU-Z is a freeware system profiler (system monitor) application for Microsoft Windows (for all versions from 95 on) that detects the central processing unit, RAM, motherboard chipset, and other hardware features of a modern personal computer, and presents the information in one window. CPU-Z is more in-depth in some areas than the features that Windows XP provides to identify various hardware components, and is thus needed to ident

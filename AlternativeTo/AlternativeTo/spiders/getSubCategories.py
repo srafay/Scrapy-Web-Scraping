@@ -4,7 +4,11 @@ import scrapy
 
 class GetsubcategoriesSpider(scrapy.Spider):
     name = 'getSubCategories'
-    start_urls = ['http://alternativeto.net/category/games//']
+
+    def __init__(self, category=None, *args, **kwargs):
+	super(GetsubcategoriesSpider, self).__init__(*args, **kwargs)
+	self.start_urls = ['http://alternativeto.net/category/' + category]
+#    start_urls = ['http://alternativeto.net/category/games//']
 
     # Entry point for the spider
     def parse(self, response):
